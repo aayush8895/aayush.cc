@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aayush.cc/sitemap.xml
